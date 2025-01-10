@@ -6,7 +6,7 @@ A simple and fun Flappy Bird game clone built with Java.
 - Classic Flappy Bird gameplay
 - Randomly generated obstacles
 - Score tracking
-- Sound effects and animations
+
 
 ## Screenshots
 ![Game Screenshot](Screenshots/GameOver.png)
@@ -64,5 +64,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 - Inspired by the original Flappy Bird by Dong Nguyen.
 
----
-Enjoy playing and happy coding! 🚀
+
